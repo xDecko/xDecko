@@ -26,7 +26,7 @@ The fusion between coding and visual arts reveals incredible potential. Through 
 #
 
 <details>
- <summary><h3>👨‍🎓 Profile</h3></summary>
+ <summary><h3>🎓 Profile</h3></summary>
    Multimedia Engineer from the University of San Buenaventura 
 Cali, with skills in programming and audiovisual production. 
 Knowledge in multiple languages of web development and 
