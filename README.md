@@ -17,6 +17,7 @@ The fusion between coding and visual arts reveals incredible potential. Through 
 <img align="left" alt="C++" width="54px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="53px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="53px" style="padding-right:10px;" src="https://raw.githubusercontent.com/xDecko/bank_modern_app/89dcc92a4a925402d0497e4adff74b1ab06bf6d0/Salesforce.com_logo.svg.svg?token=ALEPYZCJ76IC7UFGBAQSRI3JZKI4Q" />
 
 
 <br />
