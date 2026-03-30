@@ -7,7 +7,7 @@ The fusion between coding and visual arts reveals incredible potential. Through 
 
 ### 🏹 Languages and Tools
 
-<img align="left" alt="Bash" width="73px" style="padding-right:10px;" src="https://raw.githubusercontent.com/xDecko/bank_modern_app/89dcc92a4a925402d0497e4adff74b1ab06bf6d0/Salesforce.com_logo.svg.svg?token=ALEPYZCJ76IC7UFGBAQSRI3JZKI4Q" />
+<img align="left" alt="Salesforce" width="65px" style="padding-right:10px;" src="https://raw.githubusercontent.com/xDecko/bank_modern_app/89dcc92a4a925402d0497e4adff74b1ab06bf6d0/Salesforce.com_logo.svg.svg?token=ALEPYZCJ76IC7UFGBAQSRI3JZKI4Q" />
 <img align="left" alt="Java" width="52px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="53px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
