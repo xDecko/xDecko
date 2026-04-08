@@ -1,7 +1,7 @@
 # DECKO 
-**`Multimedia Engineer (Development/Desing/Photography)`**
+**`Multimedia Engineer (/Development/Salesforce/Desing/Photography)`**
 
-The fusion between coding and visual arts reveals incredible potential. Through this combination, we explore new frontiers, push boundaries and create amazing realities. As a passionate multimedia engineer, I love to transform ideas into reality using different skills and learning new ones to create innovative, visually attractive and functional products.
+The fusion between coding and visual arts reveals incredible potential. Through this combination, we explore new frontiers, push boundaries and create amazing realities. I love to transform ideas into reality using different skills and learning new ones to create innovative, visually attractive and functional products.
 
 ---
 
@@ -20,22 +20,3 @@ The fusion between coding and visual arts reveals incredible potential. Through 
 <img align="left" alt="Bash" width="53px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 
-
-<br />
-<br />
-
-
-#
-
-<details>
- <summary><h3>🎓 Profile</h3></summary>
-   Multimedia Engineer from the University of San Buenaventura 
-Cali, with skills in programming and audiovisual production. 
-Knowledge in multiple languages of web development and 
-mobile applications, profciency in methodologies, design tools 
-(UX/UI), photography and video for corporate and advertising 
-projects. Passionate about learning skills in diferent areas, 
-including micro-economics and fundamental business analysis.
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
